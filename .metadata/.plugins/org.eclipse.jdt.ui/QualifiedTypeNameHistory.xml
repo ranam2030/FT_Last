@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.qameta.allure.Severity"/>
+<fullyQualifiedTypeName name="io.qameta.allure.SeverityLevel"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.FalconTalk.PageObject.MessageModuleObj"/>
+<fullyQualifiedTypeName name="com.FalconTalk.PageActions.MessageModulePage"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="com.FalconTalk.Data.MessageModuleData"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.LongPressOptions"/>
+<fullyQualifiedTypeName name="io.appium.java_client.touch.offset.ElementOption"/>
+<fullyQualifiedTypeName name="com.FalconTalk.Utils.Utils"/>
+<fullyQualifiedTypeName name="io.qameta.allure.Description"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+<fullyQualifiedTypeName name="com.FalconTalk.PageObject.BuddiesFunctionalityObj"/>
+<fullyQualifiedTypeName name="com.FalconTalk.PageActions.BuddiesFunctionalityPage"/>
+<fullyQualifiedTypeName name="com.FalconTalk.PageObject.Common.Common"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="com.FalconTalk.PageActions.HistoryFunctionalityPage"/>
+<fullyQualifiedTypeName name="com.FalconTalk.PageObject.HistoryFunctionalityObj"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Formatter"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="com.FalconTalk.Utils.SystemUtils"/>
+<fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

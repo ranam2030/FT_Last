@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="ExtensionRingGroupAxxess(failed)">
+    <classes>
+      <class name="com.FalconTalk.ExtRingGroup.ExtensionRingGroupAxxess">
+        <methods>
+          <include name="DisplayNameTest"/>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+          <include name="AccountStatusTest"/>
+          <include name="ProfilePageAccountNameTest"/>
+        </methods>
+      </class> <!-- com.FalconTalk.ExtRingGroup.ExtensionRingGroupAxxess -->
+    </classes>
+  </test> <!-- ExtensionRingGroupAxxess(failed) -->
+  <test thread-count="5" name="Keypad(failed)">
+    <classes>
+      <class name="com.FalconTalk.Keypad.Keypad">
+        <methods>
+          <include name="Setup"/>
+          <include name="AccountStatusTest"/>
+          <include name="AccountStatusNaveTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.FalconTalk.Keypad.Keypad -->
+    </classes>
+  </test> <!-- Keypad(failed) -->
+  <test thread-count="5" name="PreviousConfig(failed)">
+    <classes>
+      <class name="com.FalconTalk.PreviousConfig.PreviousConfig">
+        <methods>
+          <include name="LastDisplayNameTest"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.FalconTalk.PreviousConfig.PreviousConfig -->
+    </classes>
+  </test> <!-- PreviousConfig(failed) -->
+  <test thread-count="5" name="ProfileDetails(failed)">
+    <classes>
+      <class name="com.FalconTalk.ProfileDetails.ProfileDetails">
+        <methods>
+          <include name="Setup"/>
+          <include name="ApplyButtonTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.FalconTalk.ProfileDetails.ProfileDetails -->
+    </classes>
+  </test> <!-- ProfileDetails(failed) -->
+  <test thread-count="5" name="AddProfileExtensionSelectionProfile(failed)">
+    <classes>
+      <class name="com.FalconTalk.ManualAccountConfiguration.ExtensionSelectionProfile">
+        <methods>
+          <include name="DisplayNameforGDRTest"/>
+          <include name="PasswordFieldforLegacyTest"/>
+          <include name="RingGroupNameforCNXTest"/>
+          <include name="ExtensionSelectionforFcTest"/>
+          <include name="DisplayNameforGogoTest"/>
+          <include name="DisplayNameforSDRTest"/>
+          <include name="ExtensionSelectionforCNXTest"/>
+          <include name="ExtensionSelectionforLegacyTest"/>
+          <include name="setups"/>
+          <include name="ExtensionSelectionforGDRTest"/>
+          <include name="DisplayNameforLegacyTest"/>
+          <include name="PasswordFieldforFcTest"/>
+          <include name="RingGroupNameforSDRTest"/>
+          <include name="DisplayNameforFcTest"/>
+          <include name="PasswordFieldforSDRTest"/>
+          <include name="PasswordFieldforGDRTest"/>
+          <include name="RingGroupNameforFcTest"/>
+          <include name="RingGroupNameforGDRTest"/>
+          <include name="tearDown"/>
+          <include name="DisplayNameforCNXTest"/>
+          <include name="PasswordFieldforCNX900Test"/>
+          <include name="ExtensionSelectionforSDRTest"/>
+          <include name="RingGroupNameforLegacyTest"/>
+        </methods>
+      </class> <!-- com.FalconTalk.ManualAccountConfiguration.ExtensionSelectionProfile -->
+    </classes>
+  </test> <!-- AddProfileExtensionSelectionProfile(failed) -->
+</suite> <!-- Failed suite [Suite] -->
